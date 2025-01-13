@@ -84,8 +84,5 @@ This project is a console-based strategy game built using Java, inspired by "Cla
   - `endTurn()` - Switches the turn to the next player.
 
 ## Future Enhancements
-
-- Integrate a graphical user interface (GUI) for improved player interaction.
 - Add multiplayer support for online gameplay.
-- Implement additional unit types and hero abilities.
 
